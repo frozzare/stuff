@@ -6,6 +6,7 @@
     <exclude name="WordPress.Arrays.ArrayKeySpacingRestrictions" />
     <exclude name="WordPress.Arrays.ArrayDeclaration" />
     <exclude name="WordPress.PHP.YodaConditions" />
+    <exclude name="WordPress.WhiteSpace.ControlStructureSpacing.NoSpaceBetweenStructureColon" />
     <exclude name="WordPress.WhiteSpace.ControlStructureSpacing.NoSpaceAfterStructureOpen" />
     <exclude name="WordPress.WhiteSpace.ControlStructureSpacing.NoSpaceAfterOpenParenthesis" />
     <exclude name="Generic.WhiteSpace.DisallowSpaceIndent.SpacesUsed" />
